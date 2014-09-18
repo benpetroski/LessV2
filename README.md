@@ -4,7 +4,7 @@ Less
 NOTE: Added few changes to Jared Erickson's Less WP theme
 (http://jarederickson.com/less-a-free-super-minimal-wordpress-theme/).
 To fully enable, move konami.js to appropriate directory and configure
-Konami code.
+Konami code in order to access WP Admin Dashboard.
 
 A simple minimal WordPress theme built with only what is needed to survive
 
