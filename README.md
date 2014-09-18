@@ -1,6 +1,11 @@
 Less
 ====
 
+NOTE: Added few changes to Jared Erickson's Less WP theme
+(http://jarederickson.com/less-a-free-super-minimal-wordpress-theme/).
+To fully enable, move konami.js to appropriate directory and configure
+Konami code.
+
 A simple minimal WordPress theme built with only what is needed to survive
 
 ![Less screenshot](https://github.com/alliswell/Less/blob/master/dev/less-screenshot.png?raw=true)
